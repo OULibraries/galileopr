@@ -40,6 +40,18 @@ hr {
 		
 }
 
+h4, .h4 {
+    font-size: 1.25em;
+}
+
+.footer-special{ /* formatting for Bird Library label */
+	font-size: 1.75em;
+	font-family: Garamond;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+}
+
 .dark {
 	background-color: #333;
     background-image: url(../images/footer_bg.png);
